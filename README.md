@@ -1,6 +1,5 @@
 
-# UTS Nayla Clarissa
-## Pengkodean dan Pemrograman — Kelas D
+# UTS Pengkodean dan Pemrograman — Kelas D
 
 🌐 **Demo aplikasi:** [Buka Voucher Kas Keluar](https://bloomienay.github.io/UTS_Nayla_Clarissa/)
 
